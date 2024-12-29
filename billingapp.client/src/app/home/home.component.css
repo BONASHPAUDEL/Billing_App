@@ -1,0 +1,125 @@
+h1 {
+    color: navy;
+  }
+  p {
+    font-size: 16px;
+  }
+  
+
+  body {
+    background-color: #fbcfe8;
+    padding: 1rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.invoice-container {
+    max-width: 40rem;
+    margin: 0 auto;
+    padding: 1.5rem;
+    border: 1px solid #000;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.company-name {
+    font-size: 1.125rem;
+    font-weight: bold;
+}
+
+.address {
+    font-size: 1rem;
+}
+
+.vat-info {
+    margin-bottom: 1rem;
+}
+
+.underline {
+    display: inline-block;
+    border-bottom: 1px solid #000;
+    padding-bottom: 0.1rem;
+}
+
+.underline.short {
+    width: 6rem;
+}
+
+.underline.long {
+    width: 12rem;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.customer-info, .invoice-info {
+    flex: 1;
+}
+
+.payment-method {
+    margin-bottom: 1rem;
+}
+
+.invoice-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+}
+
+.invoice-table th,
+.invoice-table td {
+    border: 1px solid #000;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+/* .invoice-table th {
+} */
+
+.amount-in-words {
+    margin-bottom: 1rem;
+}
+
+.totals {
+    margin-bottom: 1rem;
+}
+
+.signatures {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.customer-signature, .company-signature {
+    flex: 1;
+}
+
+.floating-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .floating-icon:hover {
+    background-color: #0056b3;
+    text-decoration: none;
+  }
+  

@@ -1,0 +1,63 @@
+# Code Citations
+
+## License: unknown
+https://github.com/angelfx/coreangular-txtfiledb/tree/41f9ff3e2e5cbfd83428fb1ce2afe8522fd2e902/AngularApp/FileDBClient/src/app/app.module.ts
+
+```
+AppComponent } from './app.component';
+import { HomeComponent } from './home/home.component';
+import { NavMenuComponent } from './nav-menu/nav-menu.component';
+import { FooterComponent } from './footer/
+```
+
+
+## License: unknown
+https://github.com/habibadeku1/citynowweb/tree/c751976756574aac03bfc0adb54faa7a2f42bb3c/client/imports/app/app.module.ts
+
+```
+@angular/platform-browser';
+import { FormsModule } from '@angular/forms';
+import { RouterModule } from '@angular/router';
+import { AppComponent } from './app.component';
+import { HomeComponent } from './home/
+```
+
+
+## License: unknown
+https://github.com/felixnego/dotnet_lab2_expenses/tree/371be39ca1bace7cb28a8b8704412faec66510a2/dotnet_lab2_expenses/ClientApp/expenses-client/src/app/app.module.ts
+
+```
+} from '@angular/forms';
+import { RouterModule } from '@angular/router';
+import { AppComponent } from './app.component';
+import { HomeComponent } from './home/home.component';
+import { NavMenuComponent } from '
+```
+
+
+## License: unknown
+https://github.com/Braitiner/angular-blog-template-trabalho1-arq-frontend/tree/dcae7fc3074dc40023941bea6440036e796c2825/src/app/app.module.ts
+
+```
+core';
+import { BrowserModule } from '@angular/platform-browser';
+import { FormsModule } from '@angular/forms';
+import { RouterModule } from '@angular/router';
+import { AppComponent } from './app.component';
+import
+```
+
+
+## License: unknown
+https://github.com/shankar-co/travelbookingapp/tree/a4e508291859e85d811fb66fbf3f79b685da0349/src/app/signup/signup.component.ts
+
+```
+} from '@angular/core';
+import { FormsModule } from '@angular/forms';
+
+@Component({
+  selector: 'app-signup',
+  templateUrl: './signup.component.html',
+  styleUrls: ['./signup.component.
+```
+

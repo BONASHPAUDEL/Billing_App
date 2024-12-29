@@ -1,0 +1,41 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list1{
+    border: 2px solid red;
+    margin-left: 80vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list2{
+    border: 2px solid red;
+}
+  .list1 ul{
+    display: flex;
+    list-style: none;
+    margin: left 100px; ;
+
+    }  
+    .list1 ul li{
+      margin-right: 10px;
+    }
+    .list1 ul li a{
+        text-decoration: none;
+        margin: 20px;
+    }
+  .list2 ul{
+    display: flex;
+    list-style: none;
+    margin-left: 30px;
+   
+    }  
+    .list2 ul li{
+      margin-right: 20px;
+    }
+    .list2 ul li a{
+        text-decoration: none;
+    }
